@@ -1,0 +1,17 @@
+react oluşturmak
+npx create-react-app camp-project
+
+code .
+
+auto import 
+auto  rename tag
+bracket  pair color
+
+es7 react/redux
+dsznajder
+
+material icon
+
+import 'semantic-ui-css/semantic.min.css'
+
+npm install axios
